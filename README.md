@@ -23,6 +23,7 @@ data - a folder containing the nine datasets to be sorted, each of which has a c
 
 
 Compile the source code by typing the following at the prompt $:
+
 $ python pokemonSort.py
 
 Code is available upon request
